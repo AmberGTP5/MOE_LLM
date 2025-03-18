@@ -187,7 +187,7 @@ python moe_sft_train.py
 
 - [GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/abs/2112.06905)
 
-- (https://github.com/wyf3/llm_related/tree/main)]
+https://github.com/wyf3/llm_related/tree/main
 
 - [Mixture of Experts with Expert Choice Routing](https://arxiv.org/abs/2202.09368)
 
@@ -196,11 +196,5 @@ python moe_sft_train.py
 
 ## 下载数据
 
-- https://github.com/jingyaogong/minimind
-- https://huggingface.co/datasets/lation/MoE_LLM_Dataset/tree/main
-
-## 下载模型
-- https://huggingface.co/lation/MoE-LLM/blob/main/moe.rar
-- https://huggingface.co/lation/MoE-LLM/blob/main/sft.rar
-
+https://github.com/jingyaogong/minimind
 
