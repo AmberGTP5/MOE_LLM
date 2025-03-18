@@ -198,3 +198,8 @@ https://github.com/wyf3/llm_related/tree/main
 
 https://github.com/jingyaogong/minimind
 
+## 下载模型
+https://huggingface.co/lation/MoE-LLM/blob/main/moe.rar
+https://huggingface.co/lation/MoE-LLM/blob/main/sft.rar
+
+
