@@ -145,3 +145,6 @@ python moe_sft_train.py
 
 - https://huggingface.co/lation/MoE-LLM/blob/main/moe.rar
 - https://huggingface.co/lation/MoE-LLM/blob/main/sft.rar
+
+## Acknowledgments 
+- Thanks to the [llm_related](https://github.com/wyf3/llm_related/tree/main) project for providing guidance and inspiration. 
